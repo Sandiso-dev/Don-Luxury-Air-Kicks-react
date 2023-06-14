@@ -6,10 +6,13 @@ with the help of class based styling thanks to Tailwind css
 
 HOOKS USED
 * useState hook
+
+
 METHODS USED
-.map()
+* .map()
 to map through my data file which consists of the web products with their properties as objects inside an array.
 this made it easy for me to render the products with the map function thanks to React.js
 
-.filter()
+
+* .filter()
 to filter through my data file and render the requested products in that array
